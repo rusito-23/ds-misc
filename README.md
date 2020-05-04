@@ -12,3 +12,14 @@ Training a CNN to recognize handwritten numbers using Sklearn's **digits** datas
 - visualize distribution per class (for train and validation split also)
 - sklearn's classification report
 - sklearn's confusion matrix
+
+## Bob Ross's paintings segmentation
+### [[Notebook]](BobRoss/BobRoss.ipynb)
+
+
+UNet semantic segmentation of Bob Ross paintings.
+Still in progress. Aimed to understand:
+
+- FCNN
+- Train a small Net with small data (dataset has ~200 samples)
+- Struggle with hyperparams
