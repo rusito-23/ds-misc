@@ -23,3 +23,8 @@ Still in progress. Aimed to understand:
 - FCNN
 - Train a small Net with small data (dataset has ~200 samples)
 - Struggle with hyperparams
+
+## Fast Neural Style Transfer
+### [[Notebook]](FNST/FNST.ipynb)
+
+Checking the Fast Neural Style Transfer from [ONNX Zoo Pretrained Model](https://github.com/onnx/models/tree/master/vision/style_transfer/fast_neural_style).
