@@ -1,8 +1,12 @@
+## Psychedelic Bunny Rabbit
+### [[Notebook]](PsychedelicBunnyRabbit/PsychedelicBunnyRabbit.ipynb)
+
+Neural Style Transfer in Pytorch over a nice bunny rabbit. [[README]](PsychedelicBunnyRabbit/README.md)
+
 ## Make Moons
 ### [[Notebook]](MakeMoons/MakeMoons.ipynb)
 
 Training a NN using Sklearn's **make_moons** dataset with Pytorch to visualize non-linear predictions given by a Neural Network.
-- TODO: compare the results with a Logistic Regression.
 
 ## Digit recognizer
 ### [[Notebook]](DigitRecognizer/DigitRecognizer.ipynb)
