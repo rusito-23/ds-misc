@@ -1,3 +1,8 @@
+## Deep Dream
+### [[Notebook]](DeepDream/DeepDream.ipynb)
+
+Deep Dream Pytorch implementation using Torchvision's pretrained InceptionV3 with Torch Hooks.
+
 ## Psychedelic Bunny Rabbit
 ### [[Notebook]](PsychedelicBunnyRabbit/PsychedelicBunnyRabbit.ipynb)
 
