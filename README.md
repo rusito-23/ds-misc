@@ -24,11 +24,6 @@ Still in progress. Aimed to understand:
 
 Checking the Fast Neural Style Transfer from [ONNX Zoo Pretrained Model](https://github.com/onnx/models/tree/master/vision/style_transfer/fast_neural_style).
 
-## Make Moons
-### [[Notebook]](MakeMoons/MakeMoons.ipynb)
-
-Training a NN using Sklearn's **make_moons** dataset with Pytorch to visualize non-linear predictions given by a Neural Network.
-
 ## Digit recognizer
 ### [[Notebook]](DigitRecognizer/DigitRecognizer.ipynb)
 
@@ -37,3 +32,13 @@ Training a CNN to recognize handwritten numbers using Sklearn's **digits** datas
 - visualize distribution per class (for train and validation split also)
 - sklearn's classification report
 - sklearn's confusion matrix
+
+## Make Moons
+### [[Notebook]](MakeMoons/MakeMoons.ipynb)
+
+Training a NN using Sklearn's **make_moons** dataset with Pytorch to visualize non-linear predictions given by a Neural Network.
+
+## Iris Random Forest Classifier
+### [[Notebook]](IrisRandomForestClassifier/Iris.ipynb)
+
+Using Grid Search - Pipelines and Random Forest in Sklearn to classify the Iris dataset.
