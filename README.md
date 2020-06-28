@@ -24,6 +24,11 @@ Still in progress. Aimed to understand:
 
 Checking the Fast Neural Style Transfer from [ONNX Zoo Pretrained Model](https://github.com/onnx/models/tree/master/vision/style_transfer/fast_neural_style).
 
+## Paul the Octopus
+### [[Notebook]](PaulTheOctopus/PaulTheOctopus.ipynb)
+
+Analyzing football results and use with XGBoost to predict results. Still in progress, results right now are pretty bad, I have some ideas about adding synthetic features and stuff. 
+
 ## Digit recognizer
 ### [[Notebook]](DigitRecognizer/DigitRecognizer.ipynb)
 
