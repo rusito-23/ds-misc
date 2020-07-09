@@ -1,7 +1,8 @@
 ## Deep Dream
-### [[Notebook]](DeepDream/DeepDream.ipynb)
+### [[Notebook (InceptionV3)]](DeepDream/DeepDreamInceptionV3.ipynb)
+### [[Notebook (GoogLeNet)]](DeepDream/DeepDreamGoogLeNet.ipynb)
 
-Deep Dream Pytorch implementation using Torchvision's pretrained InceptionV3 with Torch Hooks.
+Two different Deep Dream implementations, one using InceptionV3 and preprocessing the image by adding inceptions (downscaled and blured samples) and another using GoogLeNet with the raw image. Both of them use torch hooks.
 
 ## Psychedelic Bunny Rabbit
 ### [[Notebook]](PsychedelicBunnyRabbit/PsychedelicBunnyRabbit.ipynb)
