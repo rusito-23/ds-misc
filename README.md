@@ -1,6 +1,6 @@
 ## Deep Dream
-### [[Notebook (InceptionV3)]](DeepDream/DeepDreamInceptionV3.ipynb)
-### [[Notebook (GoogLeNet)]](DeepDream/DeepDreamGoogLeNet.ipynb)
+### InceptionV3: [[Notebook]](DeepDream/DeepDreamInceptionV3.ipynb) [[COLAB]](https://colab.research.google.com/drive/1LZ1598tODR_I0cI1L-w9B2x_JZY0sHn-?usp=sharing)
+### GoogLeNet: [[Notebook]](DeepDream/DeepDreamGoogLeNet.ipynb) [[COLAB]](https://colab.research.google.com/drive/1uHgx0r2yyv-TJyJOrjH6OFw7AJTbv4IY?usp=sharing)
 
 Two different Deep Dream implementations, one using InceptionV3 and preprocessing the image by adding inceptions (zoomed and blured samples) and another using GoogLeNet with the raw image. Both of them use torch hooks.
 
